@@ -1,0 +1,3 @@
+# katas
+
+Practice for programming.
